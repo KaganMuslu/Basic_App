@@ -15,11 +15,13 @@ namespace Basic_App.Controllers
 
         public IActionResult Index()
         {
+
             return View();
         }
 
         public IActionResult Privacy()
         {
+            //buradayým kral
             return View();
         }
 
