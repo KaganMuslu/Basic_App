@@ -22,6 +22,7 @@ namespace Basic_App.Controllers
         public IActionResult Privacy()
         {
             //buradayým kral
+            //heyooooooooooooooooo
             return View();
         }
 
